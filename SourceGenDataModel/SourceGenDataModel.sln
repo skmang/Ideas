@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program", "Program\Program.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObservableCollection", "ObservableCollection\ObservableCollection.csproj", "{F52E2969-64A4-4AF9-A5AE-E43563D03ADD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotifyPropsSourceGenerator", "NotifyPropsSourceGenerator\NotifyPropsSourceGenerator.csproj", "{8CD77C9A-99CB-4846-B097-376AC7591CBB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{F52E2969-64A4-4AF9-A5AE-E43563D03ADD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F52E2969-64A4-4AF9-A5AE-E43563D03ADD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F52E2969-64A4-4AF9-A5AE-E43563D03ADD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CD77C9A-99CB-4846-B097-376AC7591CBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CD77C9A-99CB-4846-B097-376AC7591CBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CD77C9A-99CB-4846-B097-376AC7591CBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CD77C9A-99CB-4846-B097-376AC7591CBB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

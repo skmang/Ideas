@@ -2,8 +2,6 @@
 using System.ComponentModel;
 using System.Runtime.CompilerServices;
 
-namespace Program;
-
 class Program
 {
     static void Main(string[] args)
